@@ -1,1 +1,3 @@
 Implementing feature login functions
+
+Adding some extra functionalities
